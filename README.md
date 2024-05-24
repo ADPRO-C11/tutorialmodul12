@@ -23,7 +23,7 @@
 ## Review User
 ![ester](https://github.com/ADPRO-C11/tutorialmodul12/assets/122429830/e4b08d79-bcfc-41ba-809c-29d9505e1484)
 
-## Subscription Box Management
+## Subscription Box Management Admin
 ![alt text](Subbox_Management_MuhammadFaishalAdlyNelwan/component-subbox_management.png)
 
 ## Subscription Management User
@@ -37,10 +37,19 @@
 ## Admin Subscription
 <img width="532" alt="image" src="https://github.com/ADPRO-C11/tutorialmodul12/assets/67039052/7ef8591d-6a7b-4425-b5c0-7571a2d0136a">
 
-## Subscription Box Management
-[text](Subbox_Management_MuhammadFaishalAdlyNelwan)
+## Subscription Box Management Admin
+![Subbox_Management_MuhammadFaishalAdlyNelwan/code-subboxmanagement.png](Subbox_Management_MuhammadFaishalAdlyNelwan/code-subboxmanagement.png)
 
 ## Subscription Management User
 ![image](https://github.com/ADPRO-C11/tutorialmodul12/assets/124903418/f3ff943a-62d0-43f1-8129-d1b412bee3b5)
 
 
+Risk storming adalah teknik kolaboratif di mana anggota tim dari berbagai peran berkumpul untuk mengidentifikasi, menilai, dan memprioritaskan risiko proyek. Pendekatan ini mendorong komunikasi terbuka dan memastikan pemahaman yang komprehensif tentang potensi risiko, yang mengarah pada manajemen risiko yang proaktif dan pengambilan keputusan yang tepat.
+
+Dalam proyek kami, kami menggunakan risk storming untuk mengeksplorasi potensi risiko yang terkait dengan penerapan API Gateway Server. Hal ini memungkinkan kami untuk mengidentifikasi risiko teknis, operasional, dan keamanan, memastikan integrasi yang lancar, mengatasi masalah keamanan, dan mempertimbangkan kinerja serta skalabilitas. Dengan memprioritaskan risiko-risiko ini, kami mengembangkan rencana manajemen risiko yang menyeluruh untuk mengurangi potensi masalah secara efektif. Menerapkan API Gateway memberikan beberapa keuntungan:
+
+API Gateway berfungsi sebagai titik masuk tunggal untuk semua permintaan klien, menyederhanakan manajemen dan pemantauan API.
+Ini meningkatkan keamanan dengan mengelola autentikasi, otorisasi, dan perlindungan ancaman secara terpusat.
+API Gateway dapat menyeimbangkan lalu lintas masuk di beberapa layanan dan menerapkan batasan kecepatan untuk mencegah kelebihan beban.
+Dengan menyimpan tanggapan dalam cache dan mengalihkan tugas seperti terminasi SSL, API Gateway dapat meningkatkan kinerja sistem secara keseluruhan.
+Ini memungkinkan integrasi mulus dari microservices baru dan API pihak ketiga, membuat sistem lebih mudah beradaptasi dengan perubahan.
